@@ -1,4 +1,4 @@
-package com.jhkim.learn_spring_framework;
+package com.jhkim.learn_spring_framework.helloworld;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
