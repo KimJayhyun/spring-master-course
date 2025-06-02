@@ -1,4 +1,4 @@
-package com.jhkim.learn_spring_framework.helloworld;
+package com.jhkim.learn_spring_framework_01.helloworld;
 
 import java.util.Arrays;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

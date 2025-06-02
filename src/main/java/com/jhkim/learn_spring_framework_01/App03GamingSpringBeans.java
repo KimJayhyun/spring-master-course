@@ -1,8 +1,8 @@
-package com.jhkim.learn_spring_framework;
+package com.jhkim.learn_spring_framework_01;
 
-import com.jhkim.learn_spring_framework.game.GameRunner;
-import com.jhkim.learn_spring_framework.game.GamingConfiguration;
-import com.jhkim.learn_spring_framework.game.GamingConsole;
+import com.jhkim.learn_spring_framework_01.game.GameRunner;
+import com.jhkim.learn_spring_framework_01.game.GamingConfiguration;
+import com.jhkim.learn_spring_framework_01.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class App03GamingSpringBeans {

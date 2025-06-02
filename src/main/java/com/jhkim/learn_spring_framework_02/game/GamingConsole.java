@@ -1,4 +1,4 @@
-package com.jhkim.learn_spring_framework.game;
+package com.jhkim.learn_spring_framework_02.game;
 
 public interface GamingConsole {
     void up();

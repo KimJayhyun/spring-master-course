@@ -1,7 +1,7 @@
-package com.jhkim.learn_spring_framework;
+package com.jhkim.learn_spring_framework_01;
 
-import com.jhkim.learn_spring_framework.game.GameRunner;
-import com.jhkim.learn_spring_framework.game.PackmanGame;
+import com.jhkim.learn_spring_framework_01.game.GameRunner;
+import com.jhkim.learn_spring_framework_01.game.PackmanGame;
 
 public class App01GamingBasic {
 
