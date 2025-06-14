@@ -1,5 +1,9 @@
 package com.jhkim.learn_spring_framework_01.game;
 
+
+import org.springframework.stereotype.Component;
+
+@Component
 public class PackmanGame implements GamingConsole {
 
     public void up() {
